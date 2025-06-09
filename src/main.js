@@ -1,4 +1,3 @@
-import './style.css';
 import jsQr from 'jsqr';
 import { PNG } from 'pngjs/browser';
 
